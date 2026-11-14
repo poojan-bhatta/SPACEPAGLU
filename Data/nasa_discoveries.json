@@ -1,0 +1,67 @@
+{
+  "discoveries": [
+    {
+      "id": "apollo_lunar_module",
+      "name": "Apollo Lunar Module",
+      "mission": "Apollo 11",
+      "year": "1969",
+      "purpose": "Land a crew on the Moon and return them to lunar orbit.",
+      "scientific_contribution": "Enabled the first human landing and surface field exploration on another world.",
+      "instruments": "Descent engine, ascent engine, landing gear, fuel tanks",
+      "engineering_principle": "Staged propulsion and controlled descent",
+      "historical_description": "The Apollo Lunar Module was the part of the spacecraft that actually touched the lunar surface. It used a descent engine to slow from lunar orbit and a separate ascent engine to leave the Moon after exploration.",
+      "nasa_image": "https://images.nasa.gov/",
+      "source_url": "https://www.nasa.gov/mission_pages/apollo/missions/apollo11.html",
+      "educational_challenge": "Which task best matches the purpose of the Lunar Module?",
+      "answers": [
+        "Launch from Earth into orbit",
+        "Carry astronauts to the Moon's surface and back to lunar orbit",
+        "Study sunlight from deep space",
+        "Relay radio signals between Earth and Mars"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "apollo_lunar_retroreflector",
+      "name": "Lunar Laser Retroreflector",
+      "mission": "Apollo 11, 14, 15, and 17",
+      "year": "1969-1972",
+      "purpose": "Reflect laser beams sent from Earth to measure the distance between Earth and the Moon.",
+      "scientific_contribution": "Provided a stable reference for precision lunar ranging and Earth-Moon distance measurements.",
+      "instruments": "Corner-cube retroreflector arrays",
+      "engineering_principle": "Optical reflection using fixed-angle prisms",
+      "historical_description": "The retroreflectors were placed on the lunar surface so that lasers from Earth could bounce back. Their precise return signal helped scientists measure the Moon's distance and study the dynamics of Earth-Moon motion.",
+      "nasa_image": "https://images.nasa.gov/",
+      "source_url": "https://science.nasa.gov/moon/",
+      "educational_challenge": "Why do scientists value a lunar retroreflector?",
+      "answers": [
+        "It stores sunlight for later use at night",
+        "It returns laser beams so distance can be measured precisely",
+        "It makes the Moon glow brighter",
+        "It acts as a backup navigation system for Earth's satellites"
+      ],
+      "correct_answer_index": 1
+    },
+    {
+      "id": "apollo_alsep",
+      "name": "ALSEP Scientific Package",
+      "mission": "Apollo lunar surface missions",
+      "year": "1969-1972",
+      "purpose": "Leave scientific instruments on the Moon to study seismic activity, heat flow, and the lunar environment.",
+      "scientific_contribution": "Advanced our understanding of lunar geology, surface conditions, and scientific measurement from a robotic outpost on the Moon.",
+      "instruments": "Seismometers, instruments for heat flow, solar wind measurements, and other lunar science tools",
+      "engineering_principle": "Autonomous surface science recording over long durations",
+      "historical_description": "Apollo astronauts deployed ALSEP instrument packages that kept collecting data after they returned to orbit. These experiments helped scientists learn how the Moon's surface and interior responded to the environment around it.",
+      "nasa_image": "https://images.nasa.gov/",
+      "source_url": "https://www.nasa.gov/content/lunar-surface-science",
+      "educational_challenge": "What was the main role of the ALSEP package?",
+      "answers": [
+        "To build a permanent lunar base",
+        "To record scientific measurements while left on the lunar surface",
+        "To power the lunar module engines",
+        "To transmit live television from Earth"
+      ],
+      "correct_answer_index": 1
+    }
+  ]
+}
